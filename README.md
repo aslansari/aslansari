@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**aslansari/aslansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Aslan 👋
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aslansari.visitor-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Github Stats:
+![Aslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aslansari&show_icons=true&theme=tokyonight)
+
+## My Top Langs:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aslansari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact
+
+- [Linkedin](https://www.linkedin.com/in/aslansari/)
+- [Twitter](https://twitter.com/asaridev)
+- [Medium](https://medium.com/@aslansari)
