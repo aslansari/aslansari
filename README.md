@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there I'm Aslan 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aslansari.visitor-badge)
