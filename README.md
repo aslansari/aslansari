@@ -1,6 +1,6 @@
 ## Hi there I'm Aslan 👋
 
-💼 Currently Working as Android Developer at Loodos  
+💼 Currently Working as Android Developer at Midas  
 
 ## Contact
 
